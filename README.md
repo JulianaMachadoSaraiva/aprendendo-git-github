@@ -1,2 +1,2 @@
-# Aprendendo Git / GitHub 1
+# Aprendendo Git / GitHub
 Instruções para trabalhar com Git e GitHub
